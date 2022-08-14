@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062415353777",
+    "project_id": "fir-deneme-acf8f",
+    "storage_bucket": "fir-deneme-acf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062415353777:android:f72ccd4f368ec47d09df90",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabasekullanimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062415353777-tv8rg00969s2pnb4hak0son1medgevo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO6VtTscv7WOR_Vi3Aw3cDTHFQAdCJRGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062415353777-tv8rg00969s2pnb4hak0son1medgevo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
